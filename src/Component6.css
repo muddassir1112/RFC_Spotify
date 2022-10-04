@@ -1,0 +1,47 @@
+.row2{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding-left:15%;
+    padding-right:15%;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+@media screen and (max-width: 760px){
+    .row2{
+display: block;
+    }
+}
+.para2{
+    color: white;    
+}
+h5{
+    color: rgb(207, 206, 206);
+}
+.anchor{
+    font-size: 10px;
+    text-decoration: none;
+    color: white;
+}
+.anchor1{
+    text-decoration: none;
+    color: white;
+}
+.col--1{
+    padding-top: 2%;
+}
+.col--5{
+    padding-top: 4%;
+}
+
+.row3{
+    background-color: black;
+    display: flex;
+    justify-content:space-between;
+    color: white;
+    padding-left:15%;
+    padding-right:15%;
+}
+.footer3{
+    padding-bottom: 6%;
+}
